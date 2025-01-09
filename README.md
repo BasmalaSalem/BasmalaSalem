@@ -6,7 +6,7 @@
 🤖 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.<br>
 🌱 &nbsp; I'm on track for learning more about Full-stack.<br>
 💬 &nbsp; Feel free to contact me for pro bono consulting and volunteering, or just for some interesting discussion.<br>
-✉️ &nbsp; You can shoot me an email at <a>demad2527@gmail.com</a>! I'll try to respond as soon as I can.<br>
+✉️ &nbsp; You can shoot me an email at <a>basmala.mahmoud.salem@gmail.com</a>! I'll try to respond as soon as I can.<br>
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.ibra.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
 
 <br>
